@@ -1,1 +1,9 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://image.azuza.web.id/images/agus-1545452020.jpg" group-title="Religious",Reformed 21
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/WBRC_logo_2015.png/300px-WBRC_logo_2015.png" group-title="Local",FOX 6 Birmingham AL (WBRC)
+http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://www.god.tv/wp-content/themes/godtv/images/god-bug-trans-white_1.png" group-title="",GOD TV
+https://zypelive-lh.akamaihd.net/i/default_1@710958/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="",NSFW
+http://cdn.adultiptv.net/gay.m3u8
