@@ -298,7 +298,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/TCTHLS/TCTHLS_L
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ytimg.com/vi/_Jt1yB1y-MM/hqdefault.jpg" tvg-country="US" tvg-url="" group-title="Christian",Trinity Channel
 http://rtmp1.abnsat.com/hls/trinity.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="XXX",Free Adult IPTV - Gay
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="XXX",Free Adult IPTV Gay
 http://cdn.adultiptv.net/gay.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="" tvg-country="INT" tvg-url="" group-title="XXX",NYX 1
 https://cdn1.ibizastream.biz:441/free/1/playlist_dvr.m3u8
