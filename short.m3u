@@ -9,5 +9,17 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan 1m
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/3gi2eBn.jpg" tvg-country="US" tvg-url="" group-title="Business",Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SAfu2jz.png" tvg-country="AE" tvg-url="" group-title="Movies",Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Action HD
+http://livecdnh3.tvanywhere.ae/hls/mbcaction/02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Max HD
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" group-title="XXX",Free Adult IPTV Gay
 http://cdn.adultiptv.net/gay.m3u8
