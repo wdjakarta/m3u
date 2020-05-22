@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",FOX 6 Birmingham AL (WBRC)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/wbrc.jpeg" group-title="News",FOX 6 Birmingham AL (WBRC)
 http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CNA HD
