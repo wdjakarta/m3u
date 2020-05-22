@@ -3,38 +3,38 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/wbrc.jpeg" group-title="News",FOX 6 Birmingham AL (WBRC)
 http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/CNA.jpeg" group-title="News",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/wdjakarta/m3u/raw/master/NHK.png" group-title="News",NHK World Japan
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/wdjakarta/m3u/raw/master/NHK.jpeg" group-title="News",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="US" tvg-url="" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",MBC Action HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCAction.jpeg" group-title="Movies",MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",MBC Max HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCMax.jpeg" group-title="Movies",MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Streetcam",Tokyo
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MCas.jpeg" group-title="Streetcam",Tokyo
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",RedTraffic Interracial
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg" group-title="XXX",RedTraffic Interracial
 http://live.redtraffic.xyz/interracial.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="XXX",Free Adult IPTV Gay
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg" group-title="XXX",Free Adult IPTV Gay
 http://cdn.adultiptv.net/gay.m3u8
