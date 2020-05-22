@@ -1,40 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/wbrc.jpeg" group-title="News",FOX 6 Birmingham AL (WBRC)
+#EXTINF:-1 tvh-chnum="1" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/wbrc.jpeg",FOX 6 Birmingham AL (WBRC)
 http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
 
-#EXTINF:-1 tvg-id="2" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/CNA.jpeg" group-title="News",CNA HD
+#EXTINF:-1 tvh-chnum="2" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/CNA.jpeg",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-logo="https://github.com/wdjakarta/m3u/raw/master/NHK.jpeg" group-title="News",NHK World Japan
+#EXTINF:-1 tvh-chnum="3" tvg-logo="https://github.com/wdjakarta/m3u/raw/master/NHK.jpeg",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 tvg-id="4" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvh-chnum="4" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 
-#EXTINF:-1 tvg-id="5" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvh-chnum="5" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV 
 http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvh-chnum="6" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvh-chnum="7" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-id="8" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg" group-title="Business",Bloomberg TV
+#EXTINF:-1 tvh-chnum="8" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCAction.jpeg" group-title="Movies",MBC Action HD
+#EXTINF:-1 tvh-chnum="9" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCAction.jpeg",MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCMax.jpeg" group-title="Movies",MBC Max HD
+#EXTINF:-1 tvh-chnum="10" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCMax.jpeg",MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 
-#EXTINF:-1 tvg-id="11" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MCas.jpeg" group-title="Streetcam",Tokyo
+#EXTINF:-1 tvh-chnum="11" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MCas.jpeg",Tokyo
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg" group-title="XXX",RedTraffic Interracial
+#EXTINF:-1 tvh-chnum="12" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",RedTraffic Interracial
 http://live.redtraffic.xyz/interracial.m3u8
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg" group-title="XXX",Free Adult IPTV Gay
+#EXTINF:-1 tvh-chnum="13" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",Free Adult IPTV Gay
 http://cdn.adultiptv.net/gay.m3u8
