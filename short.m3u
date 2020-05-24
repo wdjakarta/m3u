@@ -18,22 +18,29 @@ https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 #EXTINF:-1 tvh-chnum="7" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg US Live
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvh-chnum="8" tvg-logo="https://i.imgur.com/SAfu2jz.png",Star Movies HD (Middle East)
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1 tvh-chnum="9" tvg-logo="https://i.imgur.com/SAfu2jz.png",Star Movies HD (Middle East)
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
+#EXTINF:-1tvh-chnum="8" tvg-logo="https://i.imgur.com/DcIYiLM.jpg",Nat Geo People Asia
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/02.m3u8
 
-#EXTINF:-1 tvh-chnum="10" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCAction.jpeg",MBC Action HD
+#EXTINF:-1 tvh-chnum="9" tvg-logo="https://i.imgur.com/2Wy4o31.png",Nat Geo Wild HD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
+
+#EXTINF:-1 tvh-chnum="10" tvg-logo="https://i.imgur.com/FOFEg4F.png",National Geographic Asia
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+
+#EXTINF:-1 tvh-chnum="11" tvg-logo="https://i.imgur.com/wuAF3Uz.png",National Geographic UK
+http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
+
+#EXTINF:-1 tvh-chnum="12" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCAction.jpeg",MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
-#EXTINF:-1 tvh-chnum="11" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCMax.jpeg",MBC Max HD
+#EXTINF:-1 tvh-chnum="13" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCMax.jpeg",MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 
-#EXTINF:-1 tvh-chnum="12" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MCas.jpeg",Tokyo
+#EXTINF:-1 tvh-chnum="14" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MCas.jpeg",Tokyo
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 
-#EXTINF:-1 tvh-chnum="13" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",RedTraffic Interracial
+#EXTINF:-1 tvh-chnum="15" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",RedTraffic Interracial
 http://live.redtraffic.xyz/interracial.m3u8
 
-#EXTINF:-1 tvh-chnum="14" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",Free Adult IPTV Gay
+#EXTINF:-1 tvh-chnum="16" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",Free Adult IPTV Gay
 http://cdn.adultiptv.net/gay.m3u8
