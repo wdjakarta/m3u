@@ -9,32 +9,31 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #EXTINF:-1 tvh-chnum="3" tvg-logo="https://github.com/wdjakarta/m3u/raw/master/NHK.jpeg",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
-#EXTINF:-1 tvh-chnum="4" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
+#EXTINF:-1 tvh-chnum="4" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg US Live
 http://cdn-videos.akamaized.net/btv/desktop/akamai/us/live/primary.m3u8
 
-#EXTINF:-1 tvh-chnum="5" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV 
-http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-
-#EXTINF:-1 tvh-chnum="6" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
+#EXTINF:-1 tvh-chnum="6" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg Asia
 https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
 
-#EXTINF:-1 tvh-chnum="7" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
+#EXTINF:-1 tvh-chnum="7" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg US Live
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvh-chnum="8" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/Bloomberg.jpeg",Bloomberg TV
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1 tvh-chnum="8" tvg-logo="https://i.imgur.com/SAfu2jz.png",Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
+#EXTINF:-1 tvh-chnum="9" tvg-logo="https://i.imgur.com/SAfu2jz.png",Star Movies HD (Middle East)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 
-#EXTINF:-1 tvh-chnum="9" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCAction.jpeg",MBC Action HD
+#EXTINF:-1 tvh-chnum="10" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCAction.jpeg",MBC Action HD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8
 
-#EXTINF:-1 tvh-chnum="10" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCMax.jpeg",MBC Max HD
+#EXTINF:-1 tvh-chnum="11" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MBCMax.jpeg",MBC Max HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
 
-#EXTINF:-1 tvh-chnum="11" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MCas.jpeg",Tokyo
+#EXTINF:-1 tvh-chnum="12" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/MCas.jpeg",Tokyo
 http://movie.mcas.jp/mcas/gm2_2/chunklist.m3u8
 
-#EXTINF:-1 tvh-chnum="12" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",RedTraffic Interracial
+#EXTINF:-1 tvh-chnum="13" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",RedTraffic Interracial
 http://live.redtraffic.xyz/interracial.m3u8
 
-#EXTINF:-1 tvh-chnum="13" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",Free Adult IPTV Gay
+#EXTINF:-1 tvh-chnum="14" tvg-logo="https://raw.githubusercontent.com/wdjakarta/m3u/master/IPTV.jpeg",Free Adult IPTV Gay
 http://cdn.adultiptv.net/gay.m3u8
