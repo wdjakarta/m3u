@@ -1,0 +1,172 @@
+#EXTM3U
+ #EXTINF:0,XXX PREMIUM
+ http://78.108.255.7:12349/udp/239.1.1.244:4000
+ #EXTINF:0,XXX EXOTICA TV
+ http://78.108.255.7:12349/udp/239.1.1.245:4000
+ #EXTINF:0,XXX FRENCH LOVER
+ http://78.108.255.7:12349/udp/239.1.1.246:4000
+ #EXTINF:0,XXX BOY BOY GAYS
+ http://78.108.255.7:12349/udp/239.1.1.247:4000
+ #EXTINF:0,???
+ http://78.108.255.7:12349/udp/239.1.1.248:4000
+ #EXTINF:0,XXX GENTO X CENTO TV
+ http://78.108.255.7:12349/udp/239.1.1.249:4000
+ #EXTINF:0,XXX SEX T6 SENSO
+ http://78.108.255.7:12349/udp/239.1.1.250:4000
+ #EXTINF:0,XXX SCT
+ http://78.108.255.7:12349/udp/239.1.1.251:4000
+ #EXTINF:0,XXX PRIVATE
+ http://78.108.255.7:12349/udp/239.1.1.252:4000
+ #EXTINF:0,XXX ???
+ http://78.108.255.7:12349/udp/239.1.1.253:4000
+ http://www.iptvlinks.com
+ #EXTINF:-1,HD Porn TV 18+
+ http://188.165.220.116:8081/live/x/playlist.m3u8
+ #EXTINF:-1,Chinese
+ rtmp://149.3.141.210:1935/tv/ttv11?xxxx@xxx.x..xxxxx:8277
+ #EXTINF:-1,CH PLAYBOY
+ http://46.61.226.21/hls/CH_PLAYBOY/variant.m3u8?version=2
+ #EXTINF:-1,XXX
+ http://188.165.220.116:8081/live/3/playlist.m3u8
+ #EXTINF:-1,Brasileirinhas
+ http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8
+ #EXTINF:-1,XXL VOD1
+ http://a7-60.5-69.cdn13.com/28000/28013/28013.flv?
+ #EXTINF:-1, XXL VOD2
+ http://a7-60.5-69.cdn13.com/28000/28014/28014.flv?
+ #EXTINF:-1, XXL VOD3
+ http://a7-60.5-69.cdn13.com/28000/28015/28015.flv?
+ #EXTINF:-1, XXL VOD4
+ http://a7-60.5-69.cdn13.com/28000/28016/28016.flv?
+ #EXTINF:-1, XXL VOD5
+ http://a7-60.5-69.cdn13.com/28000/28017/28017.flv?
+ #EXTINF:-1, XXL VOD6
+ http://a7-60.5-69.cdn13.com/28000/28018/28018.flv?
+ #EXTINF:-1, XXL VOD7
+ http://a7-60.5-69.cdn13.com/28000/28019/28019.flv?
+ #EXTINF:-1, XXL VOD8
+ http://a7-60.5-69.cdn13.com/28000/28020/28020.flv?
+ #EXTINF:-1, XXL VOD9
+ http://a7-60.5-69.cdn13.com/28000/28021/28021.flv?
+ #EXTINF:0,XXX
+ http://188.165.220.116:8081/live/2/chunks.m3u8
+ #EXTINF:0,Hustler HD 
+ http://46.160.189.17:81/udp/239.254.2.232:1234
+ #EXTINF:-1,XXX
+ http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+ #EXTINF:-1,XXX 
+ http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ #EXTINF:-1,xxx
+ http://188.165.220.116:8081/live/2/playlist.m3u8
+ #EXTINF:-1,Frenchlover
+ http://95.170.186.178:7781/udp/239.255.4.4:1234
+ #EXTINF:-1,HD porn 
+ http://188.165.220.116:8081/live/v/playlist.m3u8
+ #EXTINF:-1,Adulto 
+ http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+ #EXTINF:-1,REDLIGHT +18
+ http://93.155.252.134:12349/udp/239.1.1.244:4000
+ #EXTINF:-1,EXOTICA TV +18
+ http://93.155.252.134:12349/udp/239.1.1.245:4000
+ #EXTINF:-1,FRENCHLOVER +18
+ http://93.155.252.134:12349/udp/239.1.1.246:4000
+ #EXTINF:-1,CENTOXCENTO TV +18
+ http://93.155.252.134:12349/udp/239.1.1.249:4000
+ #EXTINF:-1,T6SENSO TV +18
+ http://93.155.252.134:12349/udp/239.1.1.250:4000
+ #EXTINF:-1,P.B
+ http://iptv.sat-elit.net/iptv/$securekey/527/index.m3u8
+ #EXTINF:-1,egoist
+ http://iptv.sat-elit.net/iptv/securekey/526/index.m3u8
+ #EXTVLCOPT:network-caching=1000
+ http://93.155.252.134:12349/udp/239.1.1.244:4000
+ #EXTVLCOPT:network-caching=1000
+ http://93.155.252.134:12349/udp/239.1.1.245:4000
+ #EXTVLCOPT:network-caching=1000
+ http://93.155.252.134:12349/udp/239.1.1.246:4000
+ #EXTVLCOPT:network-caching=1000
+ http://93.155.252.134:12349/udp/239.1.1.249:4000
+ #EXTVLCOPT:network-caching=1000
+ http://93.155.252.134:12349/udp/239.1.1.250:4000
+ #EXTVLCOPT:network-caching=1000
+ http://iptv.sat-elit.net/iptv/$securekey/527/index.m3u8
+ #EXTVLCOPT:network-caching=1000
+ http://iptv.sat-elit.net/iptv/securekey/526/index.m3u8
+ #EXTVLCOPT:network-caching=1000
+ http://iptv.sat-elit.net/iptv/securekey/147/index.m3u8
+ #EXTINF:-1, Ночь
+ http://iptv.sat-elit.net/iptv/securekey/147/index.m3u8
+ #EXTINF:-1,P.B
+ http://iptv.sat-elit.net/iptv/$securekey/527/index.m3u8
+ #EXTINF:-1,Bunga Bunga
+ http://84.22.33.3:8066/
+ #EXTINF:-1,Egoist tv
+ http://iptv.sat-x.tv/iptv/a34321a744a74c408c5186b476d0013459c54634/526/index.m3u8
+ #EXTINF:-1,HQ Amateurs
+ http://galsflv.videosz.com//mom-and-the-pop_5/videosz-mom-and-the-pop-53.flv
+ #EXTINF:-1,Private
+ http://185.38.12.20:8088/private/
+ #EXTINF:-1,Russian night
+ http://185.38.12.20:8088/rusnoch/
+ #EXTINF:0, Korea m3u8 Okadai
+ http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+ #EXTINF:0, Korea m3u8 Okadai HD
+ http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+ #EXTINF:0, Korea m3u8 Paradise TV
+ http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+ #EXTINF:0, Korea rtmp Ask TV
+ rtmp://edge2.everyon.tv/etv2/phd1005
+ #EXTINF:0, Korea rtmp Okadai
+ rtmp://edge2.everyon.tv/etv2/pld1003
+ #EXTINF:-1,Hustler TV
+ http://tv1.sunduk.tv:8080/CH171_std/playlist.m3u8
+ #EXTINF:-1,Private
+ http://tv1.sunduk.tv:8080/CH151_std/playlist.m3u8
+ #EXTINF:-1,Satisfaction TV
+ http://iptv.sat-x.tv/iptv/a34321a744a74c408c5186b476d0013459c54634/561/index.m3u8
+ #EXTINF:-1,CentoX TV
+ http://iptv.sat-elit.net/iptv/6d0fe8e1eb8158423643ddd1b4ccfe6b/564/index.m3u8
+ #EXTINF:-1,Hot Shots TV
+ http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+ #EXTINF:-1,Babe spotting
+ http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+ #EXTINF:-1,teleitalia hd 
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/561/index.m3u8
+ #EXTINF:-1,exotica
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/562/index.m3u8
+ #EXTINF:-1,boy
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/563/index.m3u8
+ #EXTINF:-1,cento
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/564/index.m3u8
+ #EXTINF:-1,sext senso
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/565/index.m3u8
+ #EXTINF:-1,sct
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/566/index.m3u8
+ #EXTINF:-1,pink
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/567/index.m3u8
+ #EXTINF:-1,FRENCH LOVER TV
+ http://88.150.210.146/iptv/a34321a744a74c408c5186b476d0013459c54634/569/index.m3u8
+ #EXTINF:0, Frenchlover TV
+ http://88.150.210.146/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/569/index.m3u8
+ #EXTINF:0,SCT HQ
+ http://88.150.210.146/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/566/index.m3u8
+ #EXTINF:0,CENTOXCENTO TV
+ http://88.150.210.146/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/564/index.m3u8
+ #EXTINF:0,exotica plus
+ http://88.150.210.146/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/562/index.m3u8
+ #EXTINF:0,SATISFACTION HD
+ http://88.150.210.146/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/561/index.m3u8
+ #EXTINF:-1,pink
+ http://88.150.210.146/iptv/91f5ebece378143c8392d8ad6ae539797bc86a67/567/index.m3u8
+ #EXTINF:-1,PlayBoy
+ http://94.253.18.228:81/udp/234.5.2.247:1234
+ #EXTINF:-1,Private Spice
+ http://94.253.18.228:81/udp/234.5.2.248:1234
+ #EXTINF:-1,Русская Ночь
+ http://94.253.18.228:81/udp/234.5.2.249:1234
+ #EXTINF:-1,Hustler TV
+ http://tv1.sunduk.tv:8080/CH171_std/playlist.m3u8
+ #EXTINF:-1,Private
+ http://tv1.sunduk.tv:8080/CH151_std/playlist.m3u8
+ #EXTINF:-1,Русская Ночь
+ http://tv1.sunduk.tv:8080/CH152_std/playlist.m3u
